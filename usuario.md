@@ -9,3 +9,5 @@ Para ``Fazer login como uusuário`` você dee inserir um código único, aleató
 ![Login](./imagens/Login.jpg)
 
 Os códigos serão informados a cada estudante pla escola e é impossível pedr para a secretaria da escola gerar um novo, caso haja algum problema.
+
+# Painel Principal

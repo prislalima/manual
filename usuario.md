@@ -1,2 +1,2 @@
 
-![Apresentação Uusuário](./imagens/capa.pdf)
+![Apresentação Uusuário](./imagens/Inicial.jpg)

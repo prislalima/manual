@@ -1,9 +1,6 @@
-# Seja bem-vind@ ao Jlowcode Documentation!<!-- {docsify-ignore-all} -->
+# Seja bem-vind@ ao Manual de utilização do Aplicativo Estação Povoar!<!-- {docsify-ignore-all} -->
 
-Este site foi criado usando [**Docsify**](https://docsify.js.org), que é um gerador de site de documentação de código aberto e importado no GitHub Pages. Este site foi criado pelo Centro de Educação, Trabalho e Tecnologia - [CETT/UFG](https://site.cett.org.br/).
+Este site foi criado usando [**Docsify**](https://docsify.js.org), que é um gerador de site de documentação de código aberto e importado no GitHub Pages. Este site foi criado pelo grupo [Periferia Livr2] (http://www.periferialivre.fea.usp.br/)
 
-<p align="center">
-  <img src="./images/jlowcodelogo.png" alt="logo" width=305 height=165>
-</p>
 
 

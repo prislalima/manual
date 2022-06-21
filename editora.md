@@ -8,6 +8,6 @@ Ao acessar o seu aplicativo da Estação Povoar, a primeira tela é a exibida ab
 
 Após acessar o perfil da Editora é possível realizar cadastros e edições dos perfis escola e obra.
 
-[<img src="./imagens/editora2.jpg" width="190" align='center'/>](./imagens/editora2.jpg)
+[<img src="./imagens/editora2.jpg" width="190" align="middle"/>](./imagens/editora2.jpg)
 
 

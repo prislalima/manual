@@ -6,8 +6,8 @@
 
 - Acessando como Editora
   - [Primeiro Acesso](editora.md "Acesso como editora")
-  - [Escolas](escola.md "Configurar escolas")
-  - [Obras](obras.md "Configurar obras")
+  - [Configurações de Escolas](escola.md "Configurar escolas")
+  - [Configurações de Obras](obras.md "Configurar obras")
    
 - Acessando como Escola
 

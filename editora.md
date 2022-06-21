@@ -3,7 +3,7 @@
 
 Ao acessar o seu aplicativo da Estação Povoar, a primeira tela é a exibida abaixo. Você deve selescionar a opção ``Entrar Estação`` e então será redirecionado para fazer o login como Editora.
 
-[<img src="./imagens/editora1.jpg" align="middle" width="250"/>](./imagens/editora1.jpg "Tela Principal do aplicativo")
+![Acesso](./imagens/editora1.png "Tela Principal do aplicativo")
 
 *Tela Inicial* 
 

@@ -9,6 +9,8 @@ Ao acessar o seu aplicativo da Estação Povoar, a primeira tela é a exibida ab
 
 [<img src="./imagens/editora2.jpg" align="middle" width="250" />](./imagens/editora2.jpg "Acessar como Editora")
 
+*Tela de login do aplicativo*
+
 
 
 

@@ -3,13 +3,9 @@
 
 - Acessando como Uusário
    - [Primeiro Acesso](usuario.md "Acesso como usuário")
-   - [Navegando pelo Catálogo]
-   - [Acessando a estante]
-   - [Lendo Livros]
-   - [Lendo Ebooks]
-   - [Ouvindo Audiobooks]
 
 - Acessando como Editora
+  - [Primeiro Acesso](editora.md "Acesso como editora")
    
 - Acessando como Escola
 

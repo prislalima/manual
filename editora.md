@@ -9,6 +9,4 @@ Após acessar o perfil da Editora é possível realizar cadastros e edições do
 
 ![Tela Editora](./imagens/editora2.jpg)
 
-## Cadastrar uma obra
 
-### Editar obra

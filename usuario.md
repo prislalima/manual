@@ -1,6 +1,6 @@
 # Entrando em sua conta
 
-Ao acessar o seu aplicativo da Estação Povoar, a primeira tela é a exibida abaixo. Você deve selescionar a opção ``Entrar como Aluno`` e então será redirecionado para fazer o login como Uusuário.
+Ao acessar o seu aplicativo da Estação Povoar, a primeira tela é a exibida abaixo. Você deve selescionar a opção ``Entrar como Aluno`` e então será redirecionado para fazer o login como Usuário.
 
 ![Tela Inicial](./imagens/Inicial.jpg)
 
